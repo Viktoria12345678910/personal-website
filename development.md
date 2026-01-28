@@ -9,3 +9,4 @@
 		4. bookshelf(quotes, music)
 		5. blog(music).
 	Сьогодні я спланувала структуру весайту
+    In this repo i will store cjde for my page as well as resources for it and my spacehey
