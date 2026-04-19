@@ -1,0 +1,4 @@
+ - photo booth
+ - some sort of deress app
+ - message board
+ - tic tac toe against a computer
